@@ -1,0 +1,4 @@
+opencv-contrib-python 4.11.0.86
+opencv-python         4.11.0.86
+mediapipe             0.10.11
+python 3.8.13
